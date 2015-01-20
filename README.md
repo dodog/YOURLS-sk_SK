@@ -5,7 +5,7 @@ Slovenský preklad YOURLS. (Slovak translation of YOURLS)
 Pre YOURLS 1.7 (http://yourls.org/)
 
 ##Inštalácia
-  1. Stiahnite súbor ZIP úložiska pomocou tlačidla v hornej časti tejto stránky.
+  1. Stiahnite súbor ZIP úložiska pomocou tlačidla v pravej časti tejto stránky.
   2. Umiestnite súbory sk_SK.po a sk_SK.mo do priečinka users/languages vo vašej inštalácii YOURLS.
   3. V adresári /users upravte alebo pridajte do súboru config.php nasledujúci riadok
  
